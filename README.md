@@ -153,4 +153,5 @@ B)	There will be no difference since N will be changing space complexity and sti
 C)    Data Structures 
 1.	Stacks  
 2.	Queues 
+
 Stack is last in first out and Queues is First in First Out while index can be used to find the value at a particular index List look up time complexity is O(1) 
